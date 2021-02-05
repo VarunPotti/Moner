@@ -14,8 +14,5 @@
 
 `npm install`
 
-## then 
-`npm install -g nodemon`
-
 ## after that
-`nodemon`
+`node index.js`
