@@ -1,0 +1,27 @@
+{
+  "name": "moneytrader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Varun",
+  "license": "MIT",
+  "keywords": [
+    "meme",
+    "dankmemer",
+    "discord.js"
+  ],
+  "dependencies": {
+    "discord-anti-spam": "^2.4.1",
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "got": "^11.6.0",
+    "memejs": "^1.2.3",
+    "mongodb": "^3.3.2",
+    "random-puppy": "^1.1.0",
+    "request": "2.81.0"
+  }
+}
